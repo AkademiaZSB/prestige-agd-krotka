@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akademiazsb.github.io/prestige-agd-krotka/sitemap.xml
